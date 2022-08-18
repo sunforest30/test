@@ -1,0 +1,8 @@
+diff a/main.py b/main.py	(rejected hunks)
+@@ -1,2 +1,3 @@
+ print('Default Main')
+-print('Develop Mode')
+\ No newline at end of file
++print('Develop Mode')
++print('Feature/sub')
+\ No newline at end of file
